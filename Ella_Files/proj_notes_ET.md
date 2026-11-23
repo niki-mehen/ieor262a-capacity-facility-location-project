@@ -14,3 +14,12 @@ Implement (CFL) in Pyomo and solve it with Gurobi on family S. Choose one extens
 
 #### Track C: Modular Capacity. 
 Each site can be built small (capacity qi, cost fi) or large (capacity q2[i], cost f2[i]), or not at all.
+
+
+#### Results to Code/Print:
+Original CFL IP & [result] \\
+#Original CFL LP & [result] \\
+#CFL$^+$ LP & [result] \\
+#Track C IP & [result] \\
+#Track C LP & [result] \\
+#Track C$^+$ LP & [result] \\
