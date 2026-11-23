@@ -18,8 +18,13 @@ Each site can be built small (capacity qi, cost fi) or large (capacity q2[i], co
 
 #### Results to Code/Print:
 Original CFL IP & [result] \\
+
 #Original CFL LP & [result] \\
+
 #CFL$^+$ LP & [result] \\
+
 #Track C IP & [result] \\
+
 #Track C LP & [result] \\
+
 #Track C$^+$ LP & [result] \\
